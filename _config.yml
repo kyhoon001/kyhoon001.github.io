@@ -1,0 +1,28 @@
+title: Test
+subtitle: Test
+description: Website and portfolio Test
+
+author: Test
+email: Test
+avatar: Test
+
+baseurl: ""
+url: "https://kyhoon001.github.io"
+
+# Social settings
+facebook_url: https://www.facebook.com/chris.bobbe
+github_url: https://github.com/chrisbobbe
+linkedin_url: https://www.linkedin.com/in/chrisbobbe1995/
+twitter_url: https://twitter.com/chrisbobbe
+
+# SEO settiongs
+google_analytics: UA-112211352-1
+
+# Build settings
+remote_theme: chrisbobbe/jekyll-theme-prologue
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Necessary for Prologue theme:
+collections: [sections]
