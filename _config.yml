@@ -15,7 +15,7 @@ github_url: https://github.com/kyhoon001
 linkedin_url: ""
 
 # SEO settiongs
-google_analytics: UA-112211352-1
+google_analytics: 
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue

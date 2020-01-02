@@ -6,19 +6,21 @@ permalink: /skills
 order: 2
 ---
 
-## Front-end
+## Project
 
-### Jekyll Themes
-* Build a [new Jekyll theme](https://github.com/chrisbobbe/jekyll-theme-prologue) from a single-page web template written in HTML5, Sass, and JavaScript
-* Design an [intuitive, well-documented API](https://github.com/chrisbobbe/jekyll-theme-prologue/blob/master/README.md) for building a homepage with this theme
-* Extend the web template to multiple pages to meet Jekyll users' blogging needs
-* Favor universal access by changing banner image content from CSS `background-image` to `<img>` tags with alt text, scaled with `object-fit`
-* Make SEO easy by piping users' config variables to meta tags with Liquid templating
+### Web Programming Project
+* Node.js를 활용한 프로젝트 [api-test-with-node.js](https://github.com/kyhoon001/api-test-with-node.js)
+- Node.js, express를 이용해 웹 서버를 구성하였습니다. habdlebars 라이브러리를 이용하여 템플릿을 구성하였으며, 공공데이터 API를 사용하여 해당 페이지에서 약품 정보를 검색할 수 있습니다. 회원가입, 게시글 등록과 같은 데이터들은 mongoDB를 활용하여 저장하였습니다. passport.js를 사용하여 사용자 인증과 같은 로그인, 회원가입 등의 데이터를 관리하였습니다.
+- 해당 프로젝트는 windows10 환경에서 Brackets, Robo 3t를 활용하여 작업했습니다.
 
-### React
-* [Migrate](https://github.com/chrisbobbe/react-auth-sandbox) a single-page app's client-side routing from React Router 3 to 4
-* Follow best practices in React with views in a component hierarchy where [data flows down](https://reactjs.org/docs/thin king-in-react.html)
-* Take full advantage of React before carefully adding Redux
+* Spring을 활용한 프로젝트 [빅데이터를 활용한 IoT시스템 개발 과정 Semi-Project](https://github.com/kyhoon001/semi-test)
+- Spring Framework와 Maven을 활용하여 웹 페이지를 만들었습니다. eclipse 에디터를 사용하여 작업하였으며, 톰캣 서버를 활용하여 서버를 구성하였습니다. DB는 OracleDB를 활용하였습니다. 현재는 IoT 관련 장비를 판매하는 쇼핑몰을 컨셉으로 제작되었습니다. 이후에 진행될 IoT 프로젝트에서 해당 결과물의 관제시스템을 탑제할 예정입니다. 해당 프로젝트의 템플릿은 bootstrap을 활용하여 만들었습니다.
+
+-----------------
+
+## Languages
+* 학부 과정에서 C++, Java, JavaScripts를 비롯한 웹 프로그래밍관련 언어를 학습하였습니다.
+* 멀티캠퍼스 교육과정을 통해 python을 학습하였습니다. 해당 학습 과제로 python을 활용한 간단한 텔레그램 봇을 만드는 과제를 수행했습니다. 해당 봇은 파파고 API를 사용하여 번역을 해주는 기능을 수행하며, pythonanywhere를 통해 배포되었습니다.
 
 -----------------
 
