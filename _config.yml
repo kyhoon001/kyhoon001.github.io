@@ -1,19 +1,18 @@
-title: 한글테스트
-subtitle: 한글테스트
-description: Website and portfolio Test
+title: kyhoon001
+subtitle: kyhoon001
+description: Portfolio Test
 
-author: Test
-email: Test
-avatar: Test
+author: 김영훈
+email: kyhoon001@naver.com
+avatar: assets/images/avatar.jpg
 
 baseurl: ""
 url: "https://kyhoon001.github.io"
 
 # Social settings
-facebook_url: https://www.facebook.com/chris.bobbe
-github_url: https://github.com/chrisbobbe
-linkedin_url: https://www.linkedin.com/in/chrisbobbe1995/
-twitter_url: https://twitter.com/chrisbobbe
+facebook_url: ""
+github_url: https://github.com/kyhoon001
+linkedin_url: ""
 
 # SEO settiongs
 google_analytics: UA-112211352-1
